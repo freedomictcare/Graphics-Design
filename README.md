@@ -3,3 +3,4 @@
 2. What is PS & Basic Interface of PS
 3. Basic Operation of Toolsbar & Selection tools of PS
 4. Photoshop Layers & Project with layer
+5. Crop, Frame Tool & Project with Tools, Passport Size Photo
